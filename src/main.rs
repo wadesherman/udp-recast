@@ -1,5 +1,5 @@
 use env_logger::Env;
-use log::{debug, error, info, trace, warn};
+use log::{debug, error, info};
 use std::env;
 use std::net::{SocketAddr, ToSocketAddrs, UdpSocket};
 
